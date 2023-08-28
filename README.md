@@ -28,7 +28,7 @@ I thouroughly enjoyed this summer project as it opened my eyes to the flow one c
 **<a href="https://github.com/keyinb/dublinbikes">Dublin Bikes App</a>**: Involved in Full-Stack development of a predictive web app harnessing data from OpenWeather, Google Maps, JCDecaux Bikes. Focused on the model training to predict availability of bikes, but also involved heavily in backend development using Javascript, MySQL, AWS, EC2 and Nginx.
 
 ## Current Careeer Aspiration:
-My dream job would be working on the Data Team of a company like <a href="https://www.alltrails.com/careers/#open-positions">All Trails</a>, as this combines my passion for the outdoors and adventure with collecting, processing and utilizng real world data that has a **positive impact** on people's lives!
+My dream job would be working on the Data Team of a company like <a href="https://www.alltrails.com/careers/#open-positions">All Trails</a> or <a href="https://www.ascendanalytics.com/">Ascend Analytics</a>, as this combines my passion for the outdoors and adventure with collecting, processing and utilizng real world data that has a **positive impact** on people's lives!
 
 ## Current Side Project:
 Writing my own <a href="https://cianbelton.com/">personal website</a> from scratch, taking inspiration from <a href="https://sive.rs/ti">Derek Sivers</a> to be technologically independent.
