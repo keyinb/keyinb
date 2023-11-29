@@ -1,7 +1,7 @@
 ## Hello! :) 
 My name is Cian Belton and I am a **MSc Computer Science Student** at UCD, graduating in **December 2023**.
 
-I am greatly looking forward to working as a **Data Scientist/Software Engineer** in **Boulder/Fort Collins** in **February 2024**.
+I am greatly looking forward to working as a **Data Scientist/Software Engineer** in **Boulder/Fort Collins/Denver** in **March 2024**.
 
 Toolbox:
 <p float="left">
