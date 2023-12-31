@@ -1,4 +1,4 @@
-## Hello! :) 
+## Welcome to my GitHub!
 My name is Cian Belton and I have recently graduated from a **Computer Science Masters Program at UCD**.
 
 I am greatly looking forward to working as a **Data Scientist/Software Engineer** in **Boulder/Fort Collins/Denver** in **March 2024**.
