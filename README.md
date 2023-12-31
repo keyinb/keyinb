@@ -1,5 +1,5 @@
 ## Hello! :) 
-My name is Cian Belton and I am a **MSc Computer Science Student** at UCD, graduating in **December 2023**.
+My name is Cian Belton and I have recently graduated from a **Computer Science Masters Program at UCD**.
 
 I am greatly looking forward to working as a **Data Scientist/Software Engineer** in **Boulder/Fort Collins/Denver** in **March 2024**.
 
@@ -25,7 +25,7 @@ Toolbox:
 **<a href="https://github.com/Fei117117/NYSeeNow">NYSeeNow</a>**: Coordination Lead of a team of 6 for my summer research project. The app we developed, NYSeeNow, is a travel itinerary planner and guide, with a focus on utilizing the live busyness of Manhattan to guide users on where to visit. I was largely involved in the Data Analytics and Machine Learning of this project as Coordination Lead. I also contributed heavily to implementing front end features and overall project management. The frontend relies on React.js and Node.js, with the backend utilizing Spring Boot and Flask. The prediction models were created using Jupyter Notebooks, Scikit-learn, pandas and NumPy.
 I thoroughly enjoyed this summer project as it opened my eyes to the flow one could find in researching, gathering, cleaning and then actually using real-world data. Learning how to manage a team of 6 provided a great learning experience.
 
-**<a href="https://github.com/keyinb/dublinbikes">Dublin Bikes App</a>**: Involved in Full-Stack development of a predictive web app harnessing data from OpenWeather, Google Maps, JCDecaux Bikes. Focused on the model training to predict availability of bikes, but also involved heavily in backend development using Javascript, MySQL, AWS, EC2 and Nginx.
+**<a href="https://github.com/keyinb/dublinbikes">Dublin Bikes App</a>**: Involved in Full-Stack development of a predictive web app harnessing data from OpenWeather, Google Maps, JCDecaux Bikes. I focused on the model training to predict availability of bikes, but was also involved heavily in backend development using Javascript, MySQL, AWS, EC2 and Nginx.
 
 ## Current Careeer Aspiration:
 My dream job would be working on the Data/Software Team of a company that combines my passion for the outdoors and adventure with collecting, processing and utilizng real world data that has a **positive impact** on people's lives!
