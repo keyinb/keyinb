@@ -1,7 +1,5 @@
 ## Welcome to my GitHub!
-My name is Cian Belton and I have recently graduated from a **Computer Science Masters Program at UCD**.
-
-I am greatly looking forward to working as a **Data Scientist/Software Engineer** in **the US** in **early 2024**.
+My name is Cian Belton and I am currently working as a Software Engineer Intern at Teledyne LeCroy. I have recently graduated from a **Computer Science Masters Program at UCD**.
 
 Toolbox:
 <p float="left">
