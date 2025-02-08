@@ -11,7 +11,6 @@ Toolbox:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"/>
