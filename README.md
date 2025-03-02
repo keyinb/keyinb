@@ -1,5 +1,5 @@
 ## Welcome to my GitHub!
-My name is Cian Belton and I am currently working as an Application Engineer at Teledyne LeCroy. I have recently worked as a Software Engineer Intern at Teledyne LeCroy and before that graduated from a **Computer Science Masters Program at UCD**.
+My name is Cian Belton and I am currently working as an Application Support Engineer at Teledyne LeCroy. I have recently worked as a Software Engineer Intern at Teledyne LeCroy and before that graduated from a **Computer Science Masters Program at UCD**.
 
 Toolbox:
 <p float="left">
